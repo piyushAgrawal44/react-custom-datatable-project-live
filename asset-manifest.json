@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-custom-datatable-project-live/static/css/main.f238ac50.css",
+    "main.js": "/react-custom-datatable-project-live/static/js/main.e9967ee5.js",
+    "static/js/787.a73e2c26.chunk.js": "/react-custom-datatable-project-live/static/js/787.a73e2c26.chunk.js",
+    "index.html": "/react-custom-datatable-project-live/index.html",
+    "main.f238ac50.css.map": "/react-custom-datatable-project-live/static/css/main.f238ac50.css.map",
+    "main.e9967ee5.js.map": "/react-custom-datatable-project-live/static/js/main.e9967ee5.js.map",
+    "787.a73e2c26.chunk.js.map": "/react-custom-datatable-project-live/static/js/787.a73e2c26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f238ac50.css",
+    "static/js/main.e9967ee5.js"
+  ]
+}
